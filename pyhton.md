@@ -1,0 +1,3 @@
+ptkinter
+bdb
+platform
