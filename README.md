@@ -9,3 +9,4 @@
 - [Observability](monitoring.md)
 - [Servers](server.md)
 - [Testing Tools](testing.md)
+- [VS Code Extensions](vscode.md)
